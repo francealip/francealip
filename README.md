@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FabriDeCastelli&label=Profile%20views&color=0e75b6&style=flat" alt="Fabrizio De Castelli" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=francealip&label=Profile%20views&color=0e75b6&style=flat" alt="francealip" /> 
+</p>
 
 ### 🎓 Academic Journey
 
@@ -47,8 +49,6 @@ University of Pisa
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 
-<img align="left" alt="" width="26px" src="">
-<img align="left" alt="" width="26px" src="">
 </div>
 
 <br/><br/>
