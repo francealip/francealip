@@ -25,7 +25,7 @@ University of Pisa
 
 ### Contact
 - Institutional email: <a href= "mailto:d.goglia@studenti.unipi.it" target="_blank">f.aliprandi@studenti.unipi.it</a>
-- Private email: <a href= "mailto:decastellifabrizio@gmail.com" target="_blank">francesco.aliprandi93@gmail.com</a>
+- Private email: <a href= "mailto:francesco.aliprandi93@gmail.com" target="_blank">francesco.aliprandi93@gmail.com</a>
 - Linkedin: <a href='https://www.linkedin.com/in/francesco-aliprandi-1695a7264/' target="_blank">Francesco Aliprandi</a>
 
 ### Interests
